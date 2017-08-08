@@ -6,7 +6,7 @@ public class Car {
 	private int speed;
 
 	/**
-	 * 走ります.
+	 * 佐藤君の車が走ります.
 	 */
 	public void run() {
 		this.speed += 5;
